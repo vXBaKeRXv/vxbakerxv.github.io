@@ -1,12 +1,12 @@
 Package: com.ps-vxbakerxv.emoji145font
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Filename: ./debs/Emoji145.deb
-Size: 65736418
-MD5sum: ac4d7bba2bc0eeea189229e4dd8bc85f
-SHA1: 8f0b492192b4db1f4224b9e14f8df30006f94ad9
-SHA256: cfa51c6441715bd646a31b5edb40a64dd89a2950f935862600e3e9da2b2fd76c
+Size: 65737136
+MD5sum: 11f4766af496c5e44f683549c77c8da6
+SHA1: 081182029a0ba362528477c82c5f990c18f22194
+SHA256: 43805d884f661555d09ed660cd4d11773382acbe9a2383c53d3a06f72b2079b5
 Section: Fonts
 Description: BytaFont
 Author: PoomSmart & vXBaKeRXv
@@ -14,14 +14,14 @@ Depiction: http://vxbakerxv.github.io/repo/emoji145/index.html
 Name: Emoji iOS 14.5
 
 Package: com.ps-vxbakerxv.emoji145fonta
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Filename: ./debs/Emoji145_A.deb
-Size: 65733152
-MD5sum: 2a6c0b069fa1e540ba5be450a1a24c82
-SHA1: a2ac1ff9ed6db65bc443461ec233ab65db56fbba
-SHA256: 727312685e290b95bd552f1fcf4d5295f53cf734e308c3cbb7d8d2fad5188ee8
+Size: 65732846
+MD5sum: 10c889b9f78cdfe5970ced6ce43e6fa0
+SHA1: f354f0966d2ab869094676cc7e307ebf38975045
+SHA256: bd0fbb47ea96ebe7428e8ae61c1722ac5bb7ede5ef27942e8d46a007a061f5bd
 Section: Fonts (Anemone)
 Description: Anemone
 Author: PoomSmart & vXBaKeRXv
@@ -29,15 +29,15 @@ Depiction: http://vxbakerxv.github.io/repo/emoji145a/index.html
 Name: Emoji iOS 14.5
 
 Package: com.ps-vxbakerxv.emoji145fontefm
-Version: 1.0
+Version: 1.1
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
 Depends: com.ps.emojifontmanager
 Filename: ./debs/Emoji145_EFM.deb
-Size: 65732876
-MD5sum: fe62cdff0939370716762f6d919f8d35
-SHA1: d00740262be41fad725b8c82b5917fe3810bd7c5
-SHA256: 8a9f0a1c74ab0f4fa9e8347c1f4ec734d28cd0672f3e73a6e2c251aedb60eef7
+Size: 65732520
+MD5sum: 711ca141d733d09c3d09706c819386c8
+SHA1: 0872269d9df62d4b2f640828d613c625d3071982
+SHA256: eca3e27659eb55e74e9460ffc2295b3fa473e76600fa092bad5b4d5102f827fe
 Section: Fonts (EFM)
 Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
