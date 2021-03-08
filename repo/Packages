@@ -14,34 +14,67 @@ Depiction: http://vxbakerxv.github.io/repo/emoji145/index.html
 Name: Emoji iOS 14.5
 
 Package: com.ps-vxbakerxv.emoji145fonta
-Version: 1.1
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
+Depends: firmware (<< 14.0)
 Filename: ./debs/Emoji145_A.deb
-Size: 65732846
-MD5sum: 10c889b9f78cdfe5970ced6ce43e6fa0
-SHA1: f354f0966d2ab869094676cc7e307ebf38975045
-SHA256: bd0fbb47ea96ebe7428e8ae61c1722ac5bb7ede5ef27942e8d46a007a061f5bd
+Size: 65732910
+MD5sum: 1502fa736ca6a139900c1834bf04519d
+SHA1: 777d880427496e31f076da6fda62f09dfb5b2108
+SHA256: 33a50451cba3316df3829fcc407fd1bda94b087b39f80a749f57a2634262162f
 Section: Fonts (Anemone)
 Description: Anemone
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emoji145a/index.html
 Name: Emoji iOS 14.5
 
-Package: com.ps-vxbakerxv.emoji145fontefm
-Version: 1.1
+Package: com.ps-vxbakerxv.emoji145fonta14
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: PoomSmart & vXBaKeRXv
-Depends: com.ps.emojifontmanager
+Depends: firmware (>= 14.0)
+Filename: ./debs/Emoji145_A14.deb
+Size: 65733232
+MD5sum: 026c8a7c14973d54cbbafddcd6287396
+SHA1: 984c7eea21e1e20462a79f38f38dee9bd7787527
+SHA256: ce44e8b6cc01550f22c9f343713d3a5e18b4210f542df524ccd62c7e9195d3ff
+Section: Fonts (Anemone)
+Description: (14.x) Anemone
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emoji145a14/index.html
+Name: Emoji iOS 14.5
+
+Package: com.ps-vxbakerxv.emoji145fontefm
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Depends: com.ps.emojifontmanager, firmware (<< 14.0)
 Filename: ./debs/Emoji145_EFM.deb
-Size: 65732520
-MD5sum: 711ca141d733d09c3d09706c819386c8
-SHA1: 0872269d9df62d4b2f640828d613c625d3071982
-SHA256: eca3e27659eb55e74e9460ffc2295b3fa473e76600fa092bad5b4d5102f827fe
+Size: 65732616
+MD5sum: 88cdcb50dc3c7e34e27bbd5b7edb21b5
+SHA1: dd42109f8aa0062b00dbca60553fef3c7ca19606
+SHA256: 784fa8a7b688c519b2e14f6e3ce210140d7265d30096f97075f022205175f5bd
 Section: Fonts (EFM)
 Description: EmojiFontManager
 Author: PoomSmart & vXBaKeRXv
 Depiction: http://vxbakerxv.github.io/repo/emoji145efm/index.html
+Name: Emoji iOS 14.5
+
+Package: com.ps-vxbakerxv.emoji145fontefm14
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: PoomSmart & vXBaKeRXv
+Depends: com.ps.emojifontmanager, firmware (>= 14.0)
+Filename: ./debs/Emoji145_EFM14.deb
+Size: 65732944
+MD5sum: 7347213471dc9d6ef5cfa5f35f71260f
+SHA1: c3d2034f8402f9f654ec42236b37f75056bdfe40
+SHA256: 63b74d9e5015958c3be41bc114aec172cd9e2ec2dd3184354a60eb4ba9c37152
+Section: Fonts (EFM)
+Description: (14.x) EmojiFontManager
+Author: PoomSmart & vXBaKeRXv
+Depiction: http://vxbakerxv.github.io/repo/emoji145efm14/index.html
 Name: Emoji iOS 14.5
 
 Package: com.ps-vxbakerxv.emojiandroidpfont
